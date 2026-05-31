@@ -12,10 +12,9 @@
 
 ```text
 .
-├── chem_ai_rf_style_rollback_301.ipynb      # основной ноутбук с решением
+├── notebook3c214a4fd8.ipynb                 # основной ноутбук с решением
 ├── submission.csv                           # файл предсказаний для Kaggle
 ├── README.md                                # описание подхода и запуск
-├── requirements.txt                         # зависимости
 └── ChemAI.pptx # презентация проекта
 ```
 
