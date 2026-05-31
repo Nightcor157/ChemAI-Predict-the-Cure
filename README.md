@@ -16,7 +16,7 @@
 ├── submission.csv                           # файл предсказаний для Kaggle
 ├── README.md                                # описание подхода и запуск
 ├── requirements.txt                         # зависимости
-└── ChemAI_Predict_the_Cure_presentation.pptx # презентация проекта
+└── ChemAI.pptx # презентация проекта
 ```
 
 Файлы `train.csv`, `test.csv` и `sample_submission.csv` не добавляются в публичный репозиторий, так как данные лаборатории являются закрытыми.
